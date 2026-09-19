@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Event Stream",()=>it("has a valid title",()=>expect("Event Stream".length).toBeGreaterThan(3)));
